@@ -5,3 +5,5 @@ This is archive of a big wiki that looks like this if rendered. History spans ov
 ![](images/wiki.png)
 
 ![](images/wiki-2.png)
+
+[![X](https://img.shields.io/badge/nikitavoloboev-100000?logo=X&color=black)](https://x.com/nikitavoloboev) [![nikiv.dev](https://img.shields.io/badge/nikiv.dev-black)](https://nikiv.dev)
